@@ -17,7 +17,14 @@ curl 'http://172.217.28.1/_ac/connect' -H 'Content-Type: application/x-www-form-
 - How do I make the meter go up?
   - Did you know that LEDs can act like Photo Resistors? Well you do now!
 
--There are no serial commands, only debug output.
+- There are no serial commands, only debug output.
 
-
+## How to Reflash the device
+Easy! 
+``` 
+pip install esptool
+esptool.py --chip esp8266 --port COM11 --baud 115200 erase_flash
+esptool.py --chip esp8266 --port COM11 --baud 115200 --before default_reset --after hard_reset write_flash 0x0 cptc-ngpew-1.ino.nodemcu.bin 
+```
+Don't forget to replace COM11 with your serial port and point to the location of the frimware.
 
