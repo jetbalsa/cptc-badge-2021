@@ -7,6 +7,7 @@ JRWR reserves the right to reject issues and is overall the keeper of the board.
 
 ## Spoilers are contained under the spoilers folder
 - This includes full source code to things if you wish to do a whitebox assessment. For the most fun and training, never look in this folder!
+  - There is a Security Issues Page in the wiki where all the submitted security issues found will be collected. Its split into two parts and is safe to read for light spoilers until the big banner in the middle for the long form writeups of all the security issues submitted.
 
 ## Known Issues
 - Page blank or broken when trying to select SSID
