@@ -22,3 +22,5 @@ Make sure to keep spoilers out of the titles as much as you can.
 * Credits, Usernames, Github Repo, Sources.
 
 * Any other Details
+
+If you wish to include any files, please attach a PR into a subfolder of the writeups folder in this repo. Please use the format writeups/<username>/<issue title>
