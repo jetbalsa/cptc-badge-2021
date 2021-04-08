@@ -1,9 +1,9 @@
 # cptc-badge-2021
 ## Known Issues
--Page blank or broken when trying to select SSID
-  -Badge is out of ram, Please refresh page a few times 
-  -If you don't see the submit button, its still broken. 
-  -You can also try this direct curl command, replacing $SSID and $PSK with your SSID and Password urlencoded.
+- Page blank or broken when trying to select SSID
+  - Badge is out of ram, Please refresh page a few times 
+  - If you don't see the submit button, its still broken. 
+  - You can also try this direct curl command, replacing $SSID and $PSK with your SSID and Password urlencoded.
 ```
 curl 'http://172.217.28.1/_ac/connect' -H 'Content-Type: application/x-www-form-urlencoded' --data-raw 'SSID=$SSID&Passphrase=$PSK&dhcp=en&apply=Apply'
 ```
