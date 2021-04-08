@@ -1,4 +1,10 @@
 # cptc-badge-2021
+## Security Issues
+Please submit all found security issues as a Github Issue, Make sure to use the Security Issues Template for more details. you will need to include steps to reproduce the issue. If you are the first to submit a issue your name/names/team/universitys to be put on the main Security Issue Writeup forever!
+
+Your writeup will be reviewed, if it is lacking info or overall poor on details that a newbie cannot reproduce the issue or exploit, your issue will get rejected. 
+JRWR reserves the right to reject issues and is overall the keeper of the board.
+
 ## Spoilers are contained under the spoilers folder
 - This includes full source code to things if you wish to do a whitebox assessment. For the most fun and training, never look in this folder!
 
