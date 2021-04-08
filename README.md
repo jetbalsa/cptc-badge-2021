@@ -1,4 +1,7 @@
 # cptc-badge-2021
+## Spoilers are contained under the spoilers folder
+- This includes full source code to things if you wish to do a whitebox assessment. For the most fun and training, never look in this folder!
+- 
 ## Known Issues
 - Page blank or broken when trying to select SSID
   - Badge is out of ram, Please refresh page a few times 
