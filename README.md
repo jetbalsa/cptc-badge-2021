@@ -19,7 +19,7 @@ curl 'http://172.217.28.1/_ac/connect' -H 'Content-Type: application/x-www-form-
 ```
 
 - Badge is not starting Access Point or wont connect, or is frozen or in reboot loop
-  - Reflash the firmware, There is a reset URL at /mqtt_clear that will wipe wifi settings as well
+  - Reflash the firmware, Make sure to erase_flash! There is a reset URL at /mqtt_clear that will wipe wifi settings as well
 
 - Battery won't fit
   - Flip it! the notch goes down you should be able to see the pin cut outs. 
