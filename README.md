@@ -1,4 +1,13 @@
 # cptc-badge-2021
+## Setup
+- Follow On Badge Screen details to connect to AP so you can configure the AP the badge is going to connect to (BUGGY)
+- Setup the OVA listed under releases
+  - Make sure to port forward 443 or do host networking
+  - Create Account on website and a new channel
+- Configure badge with account API keys and Channel ID
+- Make your badge record light levels
+- Hack the planet!
+
 ## Security Issues
 Please submit all found security issues as a Github Issue, Make sure to use the Security Issues Template for more details. you will need to include steps to reproduce the issue. If you are the first to submit a issue your name/names/team/universitys to be put on the main Security Issue Writeup forever!
 
