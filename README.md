@@ -47,3 +47,9 @@ esptool.py --chip esp8266 --port COM11 --baud 115200 --before default_reset --af
 ```
 Don't forget to replace COM11 with your serial port and point to the location of the frimware.
 
+## Thanks
+- ShaneC for soldering all the ESPs
+- SethM for helping me put them together for shipment
+- BSidesRoc for having left over badge parts
+- ForrestF for doing all the things
+
